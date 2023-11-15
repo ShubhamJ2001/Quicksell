@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Quicksell/static/css/main.085c893f.css",
+    "main.js": "/Quicksell/static/js/main.34e491b4.js",
+    "static/js/787.0dc1bfd1.chunk.js": "/Quicksell/static/js/787.0dc1bfd1.chunk.js",
+    "index.html": "/Quicksell/index.html",
+    "static/media/Tuning.svg": "/Quicksell/static/media/Tuning.60e58550d592097aa6f7865269c844d4.svg",
+    "static/media/Down.svg": "/Quicksell/static/media/Down.1d0cf6ea731625d136ef60f7a594b7ce.svg",
+    "main.085c893f.css.map": "/Quicksell/static/css/main.085c893f.css.map",
+    "main.34e491b4.js.map": "/Quicksell/static/js/main.34e491b4.js.map",
+    "787.0dc1bfd1.chunk.js.map": "/Quicksell/static/js/787.0dc1bfd1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.085c893f.css",
+    "static/js/main.34e491b4.js"
+  ]
+}
